@@ -26,29 +26,29 @@
 # 
 # vlog -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL {C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
-# Start time: 15:59:45 on Oct 15,2024
+# Start time: 12:48:48 on Oct 21,2024
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL" C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v 
 # -- Compiling module decoder2_4
 # 
 # Top level modules:
 # 	decoder2_4
-# End time: 15:59:45 on Oct 15,2024, Elapsed time: 0:00:00
+# End time: 12:48:48 on Oct 21,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim {C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v}
 # Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
-# Start time: 15:59:45 on Oct 15,2024
+# Start time: 12:48:48 on Oct 21,2024
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim" C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v 
 # -- Compiling module tb_decoder2_4
 # 
 # Top level modules:
 # 	tb_decoder2_4
-# End time: 15:59:45 on Oct 15,2024, Elapsed time: 0:00:00
+# End time: 12:48:48 on Oct 21,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_decoder2_4
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" tb_decoder2_4 
-# Start time: 15:59:45 on Oct 15,2024
+# Start time: 12:48:49 on Oct 21,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
 # ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
@@ -65,7 +65,4 @@
 #    Time: 500 ps  Iteration: 0  Instance: /tb_decoder2_4
 # 1
 # Break in Module tb_decoder2_4 at C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v line 20
-write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Sim/questa/wave.do
-write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Sim/wave
-# End time: 16:01:14 on Oct 15,2024, Elapsed time: 0:01:29
-# Errors: 0, Warnings: 1
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Sim/wave.do

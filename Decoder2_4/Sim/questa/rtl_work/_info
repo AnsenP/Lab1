@@ -12,10 +12,10 @@ Z0 !s99 nomlopt
 cModel Technology
 Z1 dC:/FPGA_Laboratory/Lab1/6_Decoder2_4/Sim/questa
 T_opt
-!s110 1728979186
-VJRKPM7AWzETG^_4f;EZfg0
+!s110 1729486130
+VI:23g4`oH7?:l4ORgganj2
 04 13 4 work tb_decoder2_4 fast 0
-=1-a029422e883a-670e20f1-3c8-ed8
+=1-a029422e883a-6715dd31-2ba-6fc
 R0
 !s12b OEM100
 !s124 OEM10U2 
@@ -25,12 +25,12 @@ n@_opt
 OL;O;2023.3;77
 vdecoder2_4
 2C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v
-Z3 !s110 1728979185
+Z3 !s110 1729486128
 !i10b 1
-!s100 ZT;U7lB;TJMDRJL=QFL9n0
-I:lMlPP2P21haQel?QE:^o1
+!s100 1^oA@3]JLYH6W3KSaaYLF0
+IRE:<5>dYQ5LbI>X4AThRi0
 R1
-w1728977515
+w1729485869
 8C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v
 FC:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v
 !i122 0
@@ -40,7 +40,7 @@ Z5 OL;L;2023.3;77
 r1
 !s85 0
 31
-Z6 !s108 1728979185.000000
+Z6 !s108 1729486128.000000
 !s107 C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL|C:/FPGA_Laboratory/Lab1/6_Decoder2_4/RTL/decoder2_4.v|
 !i113 0
@@ -51,10 +51,10 @@ vtb_decoder2_4
 2C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v
 R3
 !i10b 1
-!s100 o9g480^5@Y4;>loA`1NGF2
-I;Zf;OGV[`^biOEa9F7]4n2
+!s100 4L3@nPC6U2hjCHaJoO[Ic2
+I_R@`DL]?_DF52KEaeh?WV3
 R1
-w1728978938
+w1729485867
 8C:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v
 FC:/FPGA_Laboratory/Lab1/6_Decoder2_4/Quartus_prj/../Sim/tb_decoder2_4.v
 !i122 1

@@ -7,7 +7,7 @@ wire [3:0] b;
 decoder2_4 uut(a,en,b);
 
 initial begin
-en = 1;
+en = 1; a = 2'bxx;
 #10
 en = 0; a = 2'b11;
 #10
