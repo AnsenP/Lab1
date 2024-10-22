@@ -1,0 +1,10 @@
+|comparator1_bit
+a => LessThan0.IN1
+a => LessThan1.IN1
+b => LessThan0.IN2
+b => LessThan1.IN2
+c[0] << LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+c[1] << c.DB_MAX_OUTPUT_PORT_TYPE
+c[2] << c.DB_MAX_OUTPUT_PORT_TYPE
+
+
