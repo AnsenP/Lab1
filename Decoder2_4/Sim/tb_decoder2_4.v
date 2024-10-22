@@ -9,13 +9,13 @@ decoder2_4 uut(a,en,b);
 initial begin
 en = 1; a = 2'bxx;
 #10
-en = 0; a = 2'b11;
-#10
-en = 0; a = 2'b10;
+en = 0; a = 2'b00;
 #10
 en = 0; a = 2'b01;
 #10
-en = 0; a=2'b00;
+en = 0; a = 2'b10;
+#10
+en = 0; a=2'b11;
 #10
 $finish();
 end
